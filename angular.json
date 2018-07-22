@@ -89,6 +89,7 @@
               "src/apple-touch-icon.png",
               "src/robots.txt",
               "src/manifest.json",
+              "src/web.config",
               "src/assets"
             ]
           }
